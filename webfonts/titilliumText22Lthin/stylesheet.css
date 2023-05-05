@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'titilliumText22Lthin';
+	src: url('titilliumtext22l001_1-webfont.eot');
+	src: url('titilliumtext22l001_1-webfont.eot?#iefix') format('embedded-opentype'),
+		url('titilliumtext22l001_1-webfont.woff') format('woff'),
+		url('titilliumtext22l001_1-webfont.ttf') format('truetype'),
+		url('titilliumtext22l001_1-webfont.svg') format('svg');
+}

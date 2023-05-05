@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'teko light';
+	src: url('teko-light-webfont.eot');
+	src: url('teko-light-webfont.eot?#iefix') format('embedded-opentype'),
+		url('teko-light-webfont.woff') format('woff'),
+		url('teko-light-webfont.ttf') format('truetype'),
+		url('teko-light-webfont.svg') format('svg');
+}

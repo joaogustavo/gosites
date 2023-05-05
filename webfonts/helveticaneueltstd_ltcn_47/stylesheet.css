@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'helveticaneueltstd ltcn 47';
+	src: url('helveticaneueltstd-ltcn.eot');
+	src: url('helveticaneueltstd-ltcn.eot?#iefix') format('embedded-opentype'),
+		url('helveticaneueltstd-ltcn.woff') format('woff'),
+		url('helveticaneueltstd-ltcn.ttf') format('truetype'),
+		url('helveticaneueltstd-ltcn.svg') format('svg');
+}
